@@ -16,7 +16,7 @@
 
         <meta-data
             android:name="com.kakao.sdk.AppKey"
-            android:value="5bf8815304bbe189ec62cf129e7c1857" />
+            android:value="비공개" />
 
         <activity android:name=".MainActivity">
             <intent-filter>
